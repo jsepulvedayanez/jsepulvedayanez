@@ -40,6 +40,10 @@ ORCID: [0000-0001-6354-3609](https://orcid.org/0000-0001-6354-3609) · Scopus: 5
 
 ---
 
+🧬 Fun fact: I became a scientist because I'm curious. I'm also a meditation teacher, a dancer, and an investor. Curiosity has a lot to answer for.
+
+---
+
 ### 📬 Contact
 Open to collaborations and consulting across my research areas — from B cell immunology and single-cell analysis to biotechnology and data-driven molecular applications. Find me on [LinkedIn](https://www.linkedin.com/in/jsepulvedayanez/) or write to [julieta.sepulveda@umag.cl](mailto:julietsepulveda@gmail.cl)
 
