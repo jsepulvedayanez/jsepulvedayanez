@@ -2,15 +2,15 @@
 
 PhD · Associate Professor, Universidad de Magallanes · Molecular biologist & bioinformatician
 
-PhD-trained molecular biologist working at the intersection of immunology, bioinformatics, and biotechnology. My research focuses on B cell receptor signaling in lymphoma and leukemia, V(D)J repertoire analysis, somatic hypermutation, and single-cell approaches — developed across a long-term collaboration between Universidad de Magallanes and Leiden University Medical Center. I also apply machine learning to molecular biology problems, including gene expression analysis.
+Molecular biologist who ended up deep in genomics, single-cell data, and B cell receptor signaling — with a long-running collaboration with [Leiden University Medical Center](https://www.lumc.nl/) that shaped most of what I do. I work at the intersection of immunology, bioinformatics, and biotechnology, and I'm increasingly interested in what machine learning can do for molecular biology problems.
 
-### Research areas
+### 🔬 Research areas
 `B cell receptor signaling` `Single-cell RNA-seq` `V(D)J repertoire analysis` `Lymphoma & CLL` `Somatic hypermutation` `ML for molecular biology` `Biotechnology & bioprocesses`
 
-### Tools & languages
+### 🛠 Tools & languages
 `R` `Seurat` `Bioconductor` `ggplot2` `DESeq2` `edgeR` `tidyverse` `Python` `10x Genomics`
 
-### Selected publications
+### 📌 Selected publications
 
 - **Antigen-independent autonomous BCR signaling drives ABC-DLBCL**  
   *Journal of Experimental Medicine*, 2024 · [doi:10.1084/jem.20230941](https://doi.org/10.1084/jem.20230941)
@@ -29,9 +29,8 @@ PhD-trained molecular biologist working at the intersection of immunology, bioin
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=wcRgbSwAAAAJ) · [ORCID](https://orcid.org/0000-0001-6354-3609) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57221341884)
 
-### Current projects
+### 🔭 Current projects
 - Single-cell B cell receptor and transcriptome profiling in lymphoma (Leiden LUMC)
-- ML-based classification models for molecular function prediction
 - Gene expression analysis in applied biotechnology contexts (CORFO-funded)
 
 ### Affiliations & identifiers
@@ -41,8 +40,6 @@ ORCID: [0000-0001-6354-3609](https://orcid.org/0000-0001-6354-3609) · Scopus: 5
 
 ---
 
-🧬 Fun fact: I have spent years studying how B cells mutate to survive. I relate to this on a personal level.
+### 📬 Contact
+Open to collaborations and consulting across my research areas — from B cell immunology and single-cell analysis to biotechnology and data-driven molecular applications. Find me on [LinkedIn](https://www.linkedin.com/in/jsepulvedayanez/) or write to [julieta.sepulveda@umag.cl](mailto:julietsepulveda@gmail.cl)
 
----
-
-Open to collaborations and consulting across my research areas, from B cell immunology and single-cell analysis to biotechnology and data-driven molecular applications. Find me on [LinkedIn](https://www.linkedin.com/in/jsepulvedayanez/). 
