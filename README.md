@@ -2,7 +2,7 @@
 
 PhD · Associate Professor, Universidad de Magallanes · Molecular biologist & bioinformatician
 
-Molecular biologist who ended up deep in genomics, single-cell data, and B cell receptor signaling — with a long-running collaboration with [Leiden University Medical Center](https://www.lumc.nl/) that shaped most of what I do. I work at the intersection of immunology, bioinformatics, and biotechnology, and I'm increasingly interested in what machine learning can do for molecular biology problems.
+Molecular biologist who ended up deep in genomics, single-cell data, and B cell receptor signaling, with a long-running collaboration with [Leiden University Medical Center](https://www.lumc.nl/) that shaped most of what I do. I work at the intersection of immunology, bioinformatics, and biotechnology, and I'm increasingly interested in what machine learning can do for molecular biology problems.
 
 ### 🔬 Research areas
 `B cell receptor signaling` `Single-cell RNA-seq` `V(D)J repertoire analysis` `Lymphoma & CLL` `Somatic hypermutation` `ML for molecular biology` `Biotechnology & bioprocesses`
