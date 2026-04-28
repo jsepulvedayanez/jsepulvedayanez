@@ -35,7 +35,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=wcRgbSwA
 
 ### Affiliations & identifiers
 Universidad de Magallanes 
-Fondecyt 1230298 · CORFO (Semilla para Mujeres)  
+CORFO (Semilla Nacional Mujeres)  
 ORCID: [0000-0001-6354-3609](https://orcid.org/0000-0001-6354-3609) · Scopus: 57221341884
 
 ---
