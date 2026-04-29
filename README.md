@@ -46,3 +46,6 @@ ORCID: [0000-0001-6354-3609](https://orcid.org/0000-0001-6354-3609) · Scopus: 5
 ### 📬 Contact
 Open to collaborations and consulting across my research areas — from B cell immunology and single-cell analysis to biotechnology and data-driven molecular applications. Find me on [LinkedIn](https://www.linkedin.com/in/jsepulvedayanez/) or write to [julietsepulveda@gmail.cl](mailto:julietsepulveda@gmail.cl)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhsepulvedayanez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views" />
+</p>
